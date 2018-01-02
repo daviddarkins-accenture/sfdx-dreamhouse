@@ -97,7 +97,7 @@
             
             <script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
             <script src="{!URLFOR($Resource.heatmap)}"></script>
-        
+        <a>hello</a>
         </body>
     </html>
 </apex:page>
